@@ -4,7 +4,7 @@ import Btn from './components/Button/Btn';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App"> 
      <Btn />
     </div>
   );
